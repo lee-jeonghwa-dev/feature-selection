@@ -7,3 +7,4 @@
 위의 책을 공부하며 정리한 내용을 담을 예정
 
 ### [저자의 github](git@github.com:alicezheng/feature-engineering-book.git)
+git@github.com:alicezheng/feature-engineering-book.git
